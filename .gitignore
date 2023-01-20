@@ -1,0 +1,8 @@
+/.idea/.gitignore
+/.idea/TcpDataReader.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/DataManager/__pycache__/*.pyc
+/__pycache__/*.pyc
